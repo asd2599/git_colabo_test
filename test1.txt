@@ -1,4 +1,8 @@
 1. text
+<<<<<<< HEAD
 2. text2
 3. text3
 4. text4
+=======
+2. text2
+>>>>>>> 3dae412f8fb3677da41a5f14aa2e0443fb02384d
